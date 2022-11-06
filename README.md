@@ -2,7 +2,7 @@
 
 ## ▶ Preview
 
-[![Deploy with Vercel](https://vercel.com/button)](https://countdown-jet.vercel.app/)
+[![Deploy with Vercel](https://vercel.com/button)](https://nlw-copa-flax.vercel.app/)
 
 ## 📃 About
 
